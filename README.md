@@ -1,9 +1,9 @@
 - 👋 Hi, I’m @AsbestosTaster. Most people call me Nathan.
-- 👀 I’m interested in ... TBA
-- 🌱 I’m currently learning: Web design
-- 💞️ I’m looking to collaborate on ... TBA
-- 📫 How to reach me ... TBA
-- 😄 Pronouns: ... 
+- 👀 I’m interested in... not much
+- 🌱 I’m currently learning: Web design (this is the reason this account started existing after all)
+- 💞️ I’m looking to collaborate on ...not much
+- 📫 How to reach me: my school Email, probably
+- 😄 Pronouns: prefer to not specify
 - ⚡ Fun fact: I like playing Dungeons and Dragons & Magic the Gathering
 
 <!---
